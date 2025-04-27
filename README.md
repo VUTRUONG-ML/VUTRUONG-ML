@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Vu Truong</h1>
 <h3 align="center">Information Technology Student passionate about AI, Machine Learning, and NLP.</h3>
 
