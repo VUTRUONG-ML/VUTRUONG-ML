@@ -8,12 +8,8 @@
 - 👯 I’m looking to collaborate on **Beginner-friendly AI/ML projects or simple NLP experiments.**
 
 - 🤝 I’m looking for help with **Improving my skills in Machine Learning and understanding NLP concepts better.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/VUTRUONG-ML?tab=repositorieshttps://github.com/VUTRUONG-ML?tab=repositories](https://github.com/VUTRUONG-ML?tab=repositorieshttps://github.com/VUTRUONG-ML?tab=repositories)
-
+  
 - 💬 Ask me about **My journey in learning AI, Machine Learning, or beginner-friendly NLP topics!**
-
-- 📫 How to reach me **letruong8017@gmail.com**
 
 - ⚡ Fun fact **When I’m not coding, you’ll find me gaming, playing soccer, or singing my favorite songs!**
 
