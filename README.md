@@ -15,7 +15,7 @@
   - Token-based authentication
   - Project teamwork via Git/GitHub
 
-- ⚡ Fun fact: I love turning mobile UI ideas into powerful backend logic that just works ✨
+- ⚡ Fun fact: I enjoy playing sports, video games, singing and especially programming. ✨
 
 ---
 
