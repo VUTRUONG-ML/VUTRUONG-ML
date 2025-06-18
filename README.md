@@ -1,22 +1,40 @@
 <h1 align="center">Hi 👋, I'm Vu Truong</h1>
-<h3 align="center">Information Technology Student passionate about AI, Machine Learning, and NLP.</h3>
+<h3 align="center">Backend Developer | Focused on Building APIs for Mobile Apps</h3>
 
-- 🔭 I’m currently working on **Learning Machine Learning fundamentals and working on small AI projects.**
+- 🔧 I'm currently focused on becoming a **Backend Developer specialized in supporting Mobile Applications**.
 
-- 🌱 I’m currently learning **Machine Learning, Python programming, and an introduction to NLP.**
+- 🧩 I enjoy designing **RESTful APIs**, handling **authentication**, **user data**, and **real-time features** for apps built with **React Native**.
 
-- 👯 I’m looking to collaborate on **Beginner-friendly AI/ML projects or simple NLP experiments.**
+- 🧠 I’m learning how to structure scalable backend systems using **Node.js**, **ExpressJS**, and **Firebase**, while also integrating **authentication**, **cloud storage**, and **database logic**.
 
-- 🤝 I’m looking for help with **Improving my skills in Machine Learning and understanding NLP concepts better.**
-  
-- 💬 Ask me about **My journey in learning AI, Machine Learning, or beginner-friendly NLP topics!**
+- 🤝 I'm open to **internship opportunities** where I can build backend services for mobile apps, especially in teams using Firebase, SQL, or cloud-based architecture.
 
-- ⚡ Fun fact **When I’m not coding, you’ll find me gaming, playing soccer, or singing my favorite songs!**
+- ⚙️ Currently improving skills in:
+  - Structuring backend for mobile needs
+  - Realtime data with Firebase
+  - Token-based authentication
+  - Project teamwork via Git/GitHub
 
-<h3 align="left">Connect with me:</h3>
+- ⚡ Fun fact: I love turning mobile UI ideas into powerful backend logic that just works ✨
+
+---
+
+<h3 align="left">🛠️ Languages & Tools:</h3>
+
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+---
 
+<h3 align="left">📬 Connect with me:</h3>
+
+- GitHub: [github.com/VUTRUONG-ML](https://github.com/VUTRUONG-ML)  
+- Email: letruong8017@gmail.com  
