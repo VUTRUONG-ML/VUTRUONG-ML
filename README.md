@@ -1,19 +1,26 @@
 <h1 align="center">Hi 👋, I'm Vu Truong</h1>
-<h3 align="center">Backend Developer | Focused on Building APIs for Mobile Apps</h3>
+<h3 align="center">Software Engineer | Backend & API Development</h3>
 
-- 🔧 I'm currently focused on becoming a **Backend Developer specialized in supporting Mobile Applications**.
+- 🔧 I'm a **final-year Information Technology student** interested in **Software Engineering and Backend Development**.
 
-- 🧩 I enjoy designing **RESTful APIs**, handling **authentication**, **user data**, and **real-time features** for apps built with **React Native**.
+- 🧩 I focus on building backend services using **Node.js**, **Express.js**, and **MySQL**, designing **RESTful APIs**, authentication systems, and structured server-side applications.
 
-- 🧠 I’m learning how to structure scalable backend systems using **Node.js**, **ExpressJS**, and **Firebase**, while also integrating **authentication**, **cloud storage**, and **database logic**.
+- 🧠 I enjoy understanding how systems **handle requests**, **manage data consistency**, and **organize backend architecture** for maintainable and scalable services.
 
-- 🤝 I'm open to **internship opportunities** where I can build backend services for mobile apps, especially in teams using Firebase, SQL, or cloud-based architecture.
+- 🤝  I'm open to **Software Engineer / Backend / Full-stack Intern opportunities** where I can learn and contribute to real-world software projects.
+
+- 🚀 Currently building projects involving:
+  - RESTful API development
+  - JWT authentication & role-based authorization
+  - Backend architecture using MVC structure
+  - Database design with MySQL
+  - API integration with React applications
 
 - ⚙️ Currently improving skills in:
-  - Structuring backend for mobile needs
-  - Realtime data with Firebase
-  - Token-based authentication
-  - Project teamwork via Git/GitHub
+  - Backend architecture and scalable services
+  - API security and authentication flows
+  - System design fundamentals
+  - Collaboration and version control with Git/GitHub
 
 - ⚡ Fun fact: I enjoy playing sports, video games, singing and especially programming. ✨
 
@@ -23,8 +30,10 @@
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
